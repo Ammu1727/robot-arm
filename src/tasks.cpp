@@ -8,7 +8,7 @@
 #include "config.h"
 #include "servo_driver.h"
 #include "motion.h"
-#include "network.h"
+#include "net_server.h"
 #include "wifi_manager_task.h"
 
 // FreeRTOS IPC primitives
